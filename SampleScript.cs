@@ -4,8 +4,6 @@ namespace DefaultNamespace
 {
     public class SampleScript : MonoBehaviour
     {
-        //qqssQQQwwwwds
-        //qqssQQQwwwwds
-        //dasdada
+        //Adjusted SampleScript.cs
     }
 }
